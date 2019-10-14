@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b80c6de9944d053c1de622e52d525593",
+    "revision": "9912fc6a6be62b9c1df6c873c338389d",
     "url": "/knowGnanavel/index.html"
   },
   {
-    "revision": "1bf2f63b76745fafba50",
+    "revision": "9d7d110b9a6115236418",
     "url": "/knowGnanavel/static/css/main.c93324c0.chunk.css"
   },
   {
@@ -12,16 +12,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/knowGnanavel/static/js/2.9fc1e76c.chunk.js"
   },
   {
-    "revision": "1bf2f63b76745fafba50",
-    "url": "/knowGnanavel/static/js/main.f117d3ab.chunk.js"
+    "revision": "9d7d110b9a6115236418",
+    "url": "/knowGnanavel/static/js/main.c2cf4ec6.chunk.js"
   },
   {
     "revision": "0d1d9c4e755d4390a397",
     "url": "/knowGnanavel/static/js/runtime-main.95385ee0.js"
   },
   {
-    "revision": "103f0b6715184a3f81dddef15fffbefa",
-    "url": "/knowGnanavel/static/media/Resume.103f0b67.pdf"
+    "revision": "6fb4fbdab6d14c8bab4332f1b51a2c2c",
+    "url": "/knowGnanavel/static/media/Resume.6fb4fbda.pdf"
   },
   {
     "revision": "c5bdbb4e07d9f6c67b8fafa970297599",
