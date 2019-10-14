@@ -1,5 +1,5 @@
 import React from 'react';
-import Aux from '../../hoc/aux';
+import Aux from '../../hoc/auxilary';
 import Realtor from '../../assets/img/realtors.png';
 import Wordpress from '../../assets/img/wordpress.png';
 import odm from '../../assets/img/odm.png'
