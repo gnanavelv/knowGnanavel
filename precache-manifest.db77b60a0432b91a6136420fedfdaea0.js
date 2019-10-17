@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9912fc6a6be62b9c1df6c873c338389d",
+    "revision": "0fbab7cff581d17618683b83522e317c",
     "url": "/knowGnanavel/index.html"
   },
   {
-    "revision": "9d7d110b9a6115236418",
-    "url": "/knowGnanavel/static/css/main.c93324c0.chunk.css"
+    "revision": "6577409a49095ea826c0",
+    "url": "/knowGnanavel/static/css/main.6a637dab.chunk.css"
   },
   {
     "revision": "749eb8c932665470c653",
     "url": "/knowGnanavel/static/js/2.9fc1e76c.chunk.js"
   },
   {
-    "revision": "9d7d110b9a6115236418",
-    "url": "/knowGnanavel/static/js/main.c2cf4ec6.chunk.js"
+    "revision": "6577409a49095ea826c0",
+    "url": "/knowGnanavel/static/js/main.0f32cc8b.chunk.js"
   },
   {
     "revision": "0d1d9c4e755d4390a397",
     "url": "/knowGnanavel/static/js/runtime-main.95385ee0.js"
   },
   {
-    "revision": "6fb4fbdab6d14c8bab4332f1b51a2c2c",
-    "url": "/knowGnanavel/static/media/Resume.6fb4fbda.pdf"
+    "revision": "65e705a16a35eb8b3e6e8cf6fe5c981c",
+    "url": "/knowGnanavel/static/media/Resume.65e705a1.pdf"
   },
   {
     "revision": "c5bdbb4e07d9f6c67b8fafa970297599",
